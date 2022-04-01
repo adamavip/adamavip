@@ -7,7 +7,7 @@
 <div>
   <samp>
 
-- 🌱 I’m currently working **at ICRISAT** <img align="right" style="width:16rem; height:auto" src="./img/geek.gif"/>
+- 🌱 I’m currently working **at ICRISAT** <img align="right" style="width:16rem; height:auto" src="./img/code-dev2.gif"/>
 
 - 🔭 I’m currently working on **machine learning, deep learning and signal processing** projects
 
