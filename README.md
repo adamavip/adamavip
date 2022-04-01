@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+  <img height="auto" src="./img/davinci.png"/>
+  <h1>Hi<img width="30rem" src="./img/waving.gif">, I'm Dr. Adama NDOUR</h1>
+  <h3>A Data scientist and a passionate full-stack web developer.</h3>
+</div>
 
 <!--
 **adamavip/adamavip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
