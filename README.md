@@ -216,6 +216,9 @@ Here are some ideas to get you started:
   <a href="https://www.microsoft.com/fr-fr/windows" target="_blank"> 
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/>
   </a>
+  <a href="https://ubuntu.com/" target="_blank"> 
+      <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+  </a>
 </p>
 
 ----
@@ -255,8 +258,11 @@ Here are some ideas to get you started:
 </h3>
 
 
-
+<div align="center">
+  <img  src="./img/github-contribution-grid-snake.svg"
+    alt="snake" />
+</div>
 
 ## Happy Coding! 😊
 
-<p align="center"><a href="./assets/footer-background.png"><img src="./assets/footer-background.png"></a></p>
+<p align="center"><a href="#"><img src="./img/footer.gif"></a></p>
