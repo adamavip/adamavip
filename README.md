@@ -74,7 +74,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 <p>
-<h3>Frontend</h3>
+<h3>📚 Frontend</h3>
 </p>
 <p>
       <a href="https://getbootstrap.com" target="_blank">
@@ -96,22 +96,51 @@ Here are some ideas to get you started:
       alt="webpack"/>
   </a>
 </p>
-<p>
 
-### Data Analysis & Numerical Computing
-- :triangular_ruler: Numpy
-- :pencil2: Scipy
-- :blue_book: Pandas
-- :chart_with_downwards_trend: Matplotlib
+### 🍗 Machine Learning / Deep Learning
+ <a href="#">
+    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=whitehttps://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
+      alt="keras"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"
+      alt="Numpy"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"
+      alt="Pandas"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"
+      alt="Plotly"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"
+      alt="Pytorch"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"
+      alt="Scikit Learn"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"
+      alt="Scipy"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"
+      alt="Tensorflow"/>
+  </a>
+
+<p>
 
 <h3>Backend</h3>
-<p>
-    <a href="https://rubyonrails.org/" target="_blank"> 
-      <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails"/> 
+</p>
+    <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> 
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/> 
   </a>
    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p> 
-<h3>Database</h3>
+<h3>💾 Databases</h3>
 <p>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
@@ -122,8 +151,33 @@ Here are some ideas to get you started:
       alt="sqlite"/> 
   </a> 
 </p>
+
+### 🎨 Design
 <p>
-<h3>Cloud & Hosting:</h3>
+  <a href="#" > 
+    <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13"
+      alt="Inkscape"/> 
+  </a>
+  <a href="#" > 
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"
+      alt="Figma"/> 
+  </a>
+  <a href="#" > 
+    <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white"
+      alt="Adobe Reader"/> 
+  </a>
+  <a href="#" > 
+    <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"
+      alt="Adobe Illustrator"/> 
+  </a>
+  <a href="#" > 
+    <img src=""
+      alt=""/> 
+  </a>
+</p>
+
+<p>
+<h3>🎈 Cloud & Hosting:</h3>
 <p>
   <a href="https://netlify.com/" target="_blank">
     <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
@@ -134,7 +188,7 @@ Here are some ideas to get you started:
   </a> 
 </p>
 <p>
-<h3>Version Control & CI/CD</h3>
+<h3>🎷 Version Control & CI/CD</h3>
 <p>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
@@ -145,8 +199,14 @@ Here are some ideas to get you started:
   </a>
 </p>
 <p>
-<h3>Preferred IDEs & Tools :</h3>
+<h3>💻 IDEs/Editors :</h3>
 <p>
+  <a href="https://www.jetbrains.com/fr-fr/pycharm/" target="_blank">
+    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm"/> 
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/> 
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
@@ -188,7 +248,7 @@ Here are some ideas to get you started:
 
   <p align="center">
    <a href="https://github.com/adamavip">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HAMMAS-SALEEM&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adamavip&show_icons=true&theme=radical"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamavip&show_icons=true&theme=midnight-white&layout=compact" alt="shoira" />
   </a>
 </p>
