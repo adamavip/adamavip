@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on JavaScript, React, and AI end-to-end projects.
 
-- 🤝 I’m looking for help with **Frontend Design**
+- 🤝 I’m looking for help in developing **machine learning web applications**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/adamavip)
 
@@ -133,7 +133,7 @@ Here are some ideas to get you started:
 
 <p>
 
-<h3>Backend</h3>
+<h3>📚 Backend</h3>
 </p>
     <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> 
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/> 
