@@ -48,6 +48,14 @@ Here are some ideas to get you started:
 
 <h3>Languages</h3>
 <p>
+  <a href="https://www.learnpython.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+      alt="python"/> 
+  </a>
+  <a href="https://www.w3schools.com/r/" target="_blank">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
+    alt="R">
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
@@ -60,13 +68,14 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
   </a>
-   <a href="https://www.json.org/json-en.html" target="_blank">
-    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"
-      alt="json"/>
+   <a href="https://www.learncpp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+      alt="C++"/>
   </a>
 </p>
 <p>
 <h3>Frontend</h3>
+</p>
 <p>
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
@@ -88,6 +97,13 @@ Here are some ideas to get you started:
   </a>
 </p>
 <p>
+
+### Data Analysis & Numerical Computing
+- :triangular_ruler: Numpy
+- :pencil2: Scipy
+- :blue_book: Pandas
+- :chart_with_downwards_trend: Matplotlib
+
 <h3>Backend</h3>
 <p>
     <a href="https://rubyonrails.org/" target="_blank"> 
