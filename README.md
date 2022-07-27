@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **machine learning, deep learning and signal processing** projects
 
-- 🌱 I’m currently learning JavaScript Frameworks such as **React, Redux and Node.js** 
+- 🌱 I’m currently master JavaScript Frameworks such as **React, Redux and Node.js** 
 
 - 👯 I’m looking to collaborate on JavaScript, React, and AI end-to-end projects.
 
