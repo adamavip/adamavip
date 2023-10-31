@@ -7,9 +7,9 @@
 <div>
   <samp>
 
-- 🌱 I’m currently working **at ICRISAT** <img align="right" style="width:20rem; height:auto" src="./img/code-dev2.gif"/>
+- 🌱 I’m currently working **at CIMMYT** <img align="right" style="width:20rem; height:auto" src="./img/code-dev2.gif"/>
 
-- 🔭 I’m currently working on **machine learning, deep learning and signal processing** projects
+- 🔭 I’m currently working on **machine learning, deep learning, signal processing and climate change-related** projects
 
 - 🌱 I’m currently master JavaScript Frameworks such as **React, Redux and Node.js** 
 
